@@ -1,6 +1,4 @@
-:
-
-🌉 EduAid: The Bridge Between Students and NGOs to Provide Them Aid
+##🌉 EduAid: The Bridge Between Students and NGOs to Provide Them Aid
 📊 Student Retention Prediction & Intervention Platform
 🌟 Mission Statement
 EduAid is a data-driven platform designed to act as a crucial bridge between vulnerable students and the Non-Governmental Organizations (NGOs) best equipped to provide targeted aid. By leveraging Machine Learning to predict which students are at the highest risk of dropping out, we enable NGOs to intervene proactively, ensuring every student has the support they need to succeed.
